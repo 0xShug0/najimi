@@ -1,0 +1,26 @@
+# macOS filesystem noise
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+Icon?
+
+# SwiftPM and build artifacts
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode local state
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+
+# Editor and temporary files
+*.swp
+*.tmp
+*.log
