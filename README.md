@@ -14,6 +14,8 @@ Najimi also puts real weight on ownership and privacy. Local models, local libra
 
 That matters because a companion feels different when it is truly yours. Privacy-first, offline-friendly design means you can talk more freely, customize more deeply, and build a longer-term relationship with your companion without treating every interaction as something that has to be sent away and stored somewhere else.
 
+Follow [@najimi_chat](https://x.com/najimi_chat) on X for the latest updates as Najimi continues to grow.
+
 ## What You Can Do
 
 ### Collect new reactions, poses, and motions
@@ -113,8 +115,6 @@ The goal is to make the useful parts of Najimi available as real standalone comp
 
 Current open-source components in the codebase include:
 
-- [placeholder]
-
-## Direction
-
-Najimi is being built as an AI companion product centered on personality, customization, privacy, and everyday use.
+- [`NajimiPocketTTSMLX`](./NajimiPocketTTSMLX): a standalone MLX-based PocketTTS runtime for on-device speech synthesis, adapted from `mlx-audio` with package cleanup, optimizations, and batch support.
+- [`NajimiSileroVADMLX`](./NajimiSileroVADMLX): a standalone MLX-based Silero voice activity detector for streaming speech detection on Apple platforms.
+- [`Theme`](./Theme): the current Najimi theme format and bundled theme definitions, with support planned for broader user theme customization and import.

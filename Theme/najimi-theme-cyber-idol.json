@@ -1,0 +1,248 @@
+{
+  "id": "cyber-idol",
+  "displayName": "Cyber Idol",
+  "version": 1,
+  "colors": {
+    "primary": {
+      "hex": "#FF2AA6"
+    },
+    "secondary": {
+      "hex": "#2AF0FF"
+    },
+    "accent": {
+      "hex": "#FFE66A"
+    },
+    "background": {
+      "light": {
+        "hex": "#FFF8FC"
+      },
+      "dark": {
+        "hex": "#090812"
+      }
+    },
+    "surface": {
+      "light": {
+        "hex": "#FFF3FA"
+      },
+      "dark": {
+        "hex": "#1A0C24"
+      }
+    },
+    "cardSurface2": {
+      "light": {
+        "hex": "#FFF0F9"
+      },
+      "dark": {
+        "hex": "#211033"
+      }
+    },
+    "surfaceMuted": {
+      "light": {
+        "hex": "#FAEAFF"
+      },
+      "dark": {
+        "hex": "#311748"
+      }
+    },
+    "surfaceElevated": {
+      "light": {
+        "hex": "#FFFFFF"
+      },
+      "dark": {
+        "hex": "#462064"
+      }
+    },
+    "routeContentBackground": {
+      "light": {
+        "hex": "#FFF4FB"
+      },
+      "dark": {
+        "hex": "#100A18"
+      }
+    },
+    "overlayControlBackground": {
+      "light": {
+        "hex": "#000000",
+        "opacity": 0.46
+      },
+      "dark": {
+        "hex": "#000000",
+        "opacity": 0.38
+      }
+    },
+    "textOnInverse": {
+      "light": {
+        "hex": "#FFFFFF"
+      },
+      "dark": {
+        "hex": "#FFFFFF"
+      }
+    },
+    "text": {
+      "light": {
+        "hex": "#17111F"
+      },
+      "dark": {
+        "hex": "#F8FAFC"
+      }
+    },
+    "textSecondary": {
+      "light": {
+        "hex": "#60415C"
+      },
+      "dark": {
+        "hex": "#E9B7D6"
+      }
+    },
+    "textTertiary": {
+      "light": {
+        "hex": "#86697D"
+      },
+      "dark": {
+        "hex": "#B685A6"
+      }
+    },
+    "border": {
+      "light": {
+        "hex": "#F6B8DB"
+      },
+      "dark": {
+        "hex": "#472463"
+      }
+    },
+    "borderStrong": {
+      "light": {
+        "hex": "#FF73C4"
+      },
+      "dark": {
+        "hex": "#2AF0FF"
+      }
+    },
+    "success": {
+      "hex": "#29DE9C"
+    },
+    "successBackground": {
+      "light": {
+        "hex": "#E7F6EE"
+      },
+      "dark": {
+        "hex": "#0F2B22"
+      }
+    },
+    "successText": {
+      "light": {
+        "hex": "#216A4B"
+      },
+      "dark": {
+        "hex": "#79D5AF"
+      }
+    },
+    "warning": {
+      "hex": "#FFC04D"
+    },
+    "warningBackground": {
+      "light": {
+        "hex": "#F8E7D1"
+      },
+      "dark": {
+        "hex": "#332313"
+      }
+    },
+    "warningText": {
+      "light": {
+        "hex": "#975A18"
+      },
+      "dark": {
+        "hex": "#F0C38A"
+      }
+    },
+    "error": {
+      "hex": "#FF6E9E"
+    },
+    "errorBackground": {
+      "light": {
+        "hex": "#F9E8E6"
+      },
+      "dark": {
+        "hex": "#311817"
+      }
+    },
+    "errorText": {
+      "light": {
+        "hex": "#9C2F2A"
+      },
+      "dark": {
+        "hex": "#F3A5A0"
+      }
+    },
+    "info": {
+      "hex": "#63C6FF"
+    },
+    "infoBackground": {
+      "light": {
+        "hex": "#E8F1FA"
+      },
+      "dark": {
+        "hex": "#102132"
+      }
+    },
+    "infoText": {
+      "light": {
+        "hex": "#1F4F7E"
+      },
+      "dark": {
+        "hex": "#9FC6F2"
+      }
+    },
+    "disabled": {
+      "light": {
+        "hex": "#EAD9E8"
+      },
+      "dark": {
+        "hex": "#2B2B44"
+      }
+    },
+    "disabledText": {
+      "light": {
+        "hex": "#8C7890"
+      },
+      "dark": {
+        "hex": "#666A88"
+      }
+    },
+    "gradientStart": {
+      "hex": "#FF2AA6"
+    },
+    "gradientEnd": {
+      "hex": "#2AF0FF"
+    },
+    "heroTop": {
+      "light": {
+        "hex": "#FFF3FC"
+      },
+      "dark": {
+        "hex": "#241036"
+      }
+    },
+    "heroBottom": {
+      "light": {
+        "hex": "#FFFBE3"
+      },
+      "dark": {
+        "hex": "#120B15"
+      }
+    },
+    "shadowLight": {
+      "hex": "#000000",
+      "opacity": 0.08
+    },
+    "shadowMedium": {
+      "hex": "#000000",
+      "opacity": 0.18
+    },
+    "shadowHeavy": {
+      "hex": "#000000",
+      "opacity": 0.3
+    }
+  }
+}
