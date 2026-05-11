@@ -16,6 +16,8 @@ That matters because a companion feels different when it is truly yours. Privacy
 
 Follow [@najimi_chat](https://x.com/najimi_chat) on X for the latest updates as Najimi continues to grow.
 
+<video src="./Assets/Demo/chat.mp4" controls muted playsinline width="420"></video>
+
 ## What You Can Do
 
 ### Collect new reactions, poses, and motions
@@ -24,9 +26,13 @@ Najimi is not just about picking a static companion and leaving it there. Your c
 
 You start with a core set of expressions and gestures, then unlock more reactions, poses, and motions as you keep chatting with your companion.
 
+<video src="./Assets/Demo/unlock_action.mp4" controls muted playsinline width="420"></video>
+
 ### Choose your companion
 
 Start with one of 15 built-in companions, or import your own avatar packages into the library. Each avatar can become the face of a different companion experience, so choosing a character is not just cosmetic, it defines who you are spending time with in the app.
+
+<video src="./Assets/Demo/companion_import_and_customize.mp4" controls muted playsinline width="420"></video>
 
 ### Choose their voice
 
@@ -40,6 +46,10 @@ Najimi treats personality as its own layer. You can create personality profiles,
 
 The app also lets you customize the surrounding presentation of the experience. You can manage backgrounds, choose themes, switch appearance modes, and adjust the overall visual tone so the app feels more like your own space. Najimi includes avatar-scene controls that let you refine how a companion appears on screen. The app exposes controls for things like render mode, camera framing, lighting, shadows, animation smoothness, and scene presentation.
 
+<video src="./Assets/Demo/scene_control.mp4" controls muted playsinline width="420"></video>
+
+<video src="./Assets/Demo/theme.mp4" controls muted playsinline width="420"></video>
+
 ### Talk naturally
 
 You can type when you want to type, and you can talk when you want to talk. Najimi supports spoken interaction so conversations can feel more natural and more alive.
@@ -52,6 +62,8 @@ Najimi is not just a big generic model dropped into an app. It is built around c
 
 The same idea carries into voice. Najimi uses dedicated speech models and supporting systems designed for natural-sounding output, real conversation flow, and smooth companion performance.
 
+<video src="./Assets/Demo/model_config.mp4" controls muted playsinline width="420"></video>
+
 ### A companion that actually remembers
 
 Najimi is not a naive chat app that forgets everything the moment the screen moves. It is designed to remember important details, carry context forward, and make conversations feel more continuous over time.
@@ -59,6 +71,8 @@ Najimi is not a naive chat app that forgets everything the moment the screen mov
 Under the hood, that includes a memory system with retrieval-style context injection, RAG-style recall behavior, and conversation history handling that helps bring back the right details when they matter.
 
 It also works to avoid repetitive replies, repeated openings, and recycled phrasing, so the companion feels more present and less like it is falling back to the same stock answer again and again.
+
+<video src="./Assets/Demo/scene_memory_config.mp4" controls muted playsinline width="420"></video>
 
 ### Use built-in tools with your companion
 
