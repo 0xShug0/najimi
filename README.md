@@ -16,7 +16,7 @@ That matters because a companion feels different when it is truly yours. Privacy
 
 Follow [@najimi_chat](https://x.com/najimi_chat) on X for the latest updates as Najimi continues to grow.
 
-<video src="./Assets/Demo/chat.mp4" controls muted playsinline width="420"></video>
+<video src="https://github.com/user-attachments/assets/301fa428-98bd-4ce4-956f-13193699ea19" controls width="420"></video>
 
 ## What You Can Do
 
