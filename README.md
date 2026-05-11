@@ -16,7 +16,7 @@ That matters because a companion feels different when it is truly yours. Privacy
 
 Follow [@najimi_chat](https://x.com/najimi_chat) on X for the latest updates as Najimi continues to grow.
 
-<video src="https://github.com/user-attachments/assets/301fa428-98bd-4ce4-956f-13193699ea19" controls width="420"></video>
+[<img src="./Assets/Demo/chat.gif" alt="Talk naturally with your companion" width="420">](./Assets/Demo/chat.mp4)
 
 ## What You Can Do
 
@@ -26,13 +26,13 @@ Najimi is not just about picking a static companion and leaving it there. Your c
 
 You start with a core set of expressions and gestures, then unlock more reactions, poses, and motions as you keep chatting with your companion.
 
-<video src="./Assets/Demo/unlock_action.mp4" controls muted playsinline width="420"></video>
+[<img src="./Assets/Demo/unlock_action.gif" alt="Unlock new reactions, poses, and motions" width="420">](./Assets/Demo/unlock_action.mp4)
 
 ### Choose your companion
 
 Start with one of 15 built-in companions, or import your own avatar packages into the library. Each avatar can become the face of a different companion experience, so choosing a character is not just cosmetic, it defines who you are spending time with in the app.
 
-<video src="./Assets/Demo/companion_import_and_customize.mp4" controls muted playsinline width="420"></video>
+[<img src="./Assets/Demo/companion_import_and_customize.gif" alt="Import and customize your companion" width="420">](./Assets/Demo/companion_import_and_customize.mp4)
 
 ### Choose their voice
 
@@ -46,9 +46,9 @@ Najimi treats personality as its own layer. You can create personality profiles,
 
 The app also lets you customize the surrounding presentation of the experience. You can manage backgrounds, choose themes, switch appearance modes, and adjust the overall visual tone so the app feels more like your own space. Najimi includes avatar-scene controls that let you refine how a companion appears on screen. The app exposes controls for things like render mode, camera framing, lighting, shadows, animation smoothness, and scene presentation.
 
-<video src="./Assets/Demo/scene_control.mp4" controls muted playsinline width="420"></video>
+[<img src="./Assets/Demo/scene_control.gif" alt="Customize scene presentation" width="420">](./Assets/Demo/scene_control.mp4)
 
-<video src="./Assets/Demo/theme.mp4" controls muted playsinline width="420"></video>
+[<img src="./Assets/Demo/theme.gif" alt="Switch the app theme" width="420">](./Assets/Demo/theme.mp4)
 
 ### Talk naturally
 
@@ -62,7 +62,7 @@ Najimi is not just a big generic model dropped into an app. It is built around c
 
 The same idea carries into voice. Najimi uses dedicated speech models and supporting systems designed for natural-sounding output, real conversation flow, and smooth companion performance.
 
-<video src="./Assets/Demo/model_config.mp4" controls muted playsinline width="420"></video>
+[<img src="./Assets/Demo/model_config.gif" alt="Configure local models" width="420">](./Assets/Demo/model_config.mp4)
 
 ### A companion that actually remembers
 
@@ -72,7 +72,7 @@ Under the hood, that includes a memory system with retrieval-style context injec
 
 It also works to avoid repetitive replies, repeated openings, and recycled phrasing, so the companion feels more present and less like it is falling back to the same stock answer again and again.
 
-<video src="./Assets/Demo/scene_memory_config.mp4" controls muted playsinline width="420"></video>
+[<img src="./Assets/Demo/scene_memory_config.gif" alt="Tune memory and companion behavior" width="420">](./Assets/Demo/scene_memory_config.mp4)
 
 ### Use built-in tools with your companion
 
