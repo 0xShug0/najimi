@@ -106,7 +106,7 @@ Najimi is already usable today, but a lot of the product is still being expanded
 ### Voice
 
 - `◑` Voice cloning and richer custom-voice workflows.
-- `◑` Multi-language TTS support, starting with English and Japanese.
+- `◑` Multi-language TTS support.
 - `◑` Better long-form speech features, including audiobook-style reading flows.
 
 ### Avatar and creation tools
