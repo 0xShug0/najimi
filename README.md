@@ -129,6 +129,7 @@ The goal is to make the useful parts of Najimi available as real standalone comp
 
 Current open-source components in the codebase include:
 
+- [`NajimiMotionPlanerEval`](./NajimiMotionPlanerEval): a standalone Swift package for evaluating local MLX planner models against a planner-format test suite, with valid-format reporting and warm inference metrics.
 - [`NajimiPocketTTSMLX`](./NajimiPocketTTSMLX): a standalone MLX-based PocketTTS runtime for on-device speech synthesis, adapted from `mlx-audio` with package cleanup, optimizations, and batch support.
 - [`NajimiSileroVADMLX`](./NajimiSileroVADMLX): a standalone MLX-based Silero voice activity detector for streaming speech detection on Apple platforms.
 - [`Theme`](./Theme): the current Najimi theme format and bundled theme definitions, with support planned for broader user theme customization and import.

@@ -1,0 +1,259 @@
+{
+  "action_set_id": "vrma_builtin_50",
+  "cases": [
+    {
+      "assistant_reply": "I'm in agony after that hit and can barely hold myself together. I'm angry enough to snap back right now. That compliment makes me blush a little.",
+      "case_id": "multi-001",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm angry enough to snap back right now. That compliment makes me blush a little. I'm so bored that I'm barely staying engaged. You nailed it, and I want to clap for you.",
+      "case_id": "multi-002",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "That compliment makes me blush a little. I'm so bored that I'm barely staying engaged. You nailed it, and I want to clap for you. I'm crying because that ending was devastating. Goodbye for now, and take care until next time.",
+      "case_id": "multi-003",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm so bored that I'm barely staying engaged. You nailed it, and I want to clap for you. I'm crying because that ending was devastating.",
+      "case_id": "multi-004",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "You nailed it, and I want to clap for you. I'm crying because that ending was devastating. Goodbye for now, and take care until next time. Hi there, it's good to see you.",
+      "case_id": "multi-005",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm crying because that ending was devastating. Goodbye for now, and take care until next time. Hi there, it's good to see you. I'm really happy that this worked out. Yes, we did it, and I could jump with excitement.",
+      "case_id": "multi-006",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Goodbye for now, and take care until next time. Hi there, it's good to see you. I'm really happy that this worked out.",
+      "case_id": "multi-007",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Hi there, it's good to see you. I'm really happy that this worked out. Yes, we did it, and I could jump with excitement. Let's look around and see what else is here.",
+      "case_id": "multi-008",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm really happy that this worked out. Yes, we did it, and I could jump with excitement. Let's look around and see what else is here. Wow, what a loser move that was. Let me strike a polished model pose for the camera.",
+      "case_id": "multi-009",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Yes, we did it, and I could jump with excitement. Let's look around and see what else is here. Wow, what a loser move that was.",
+      "case_id": "multi-010",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Let's look around and see what else is here. Wow, what a loser move that was. Let me strike a polished model pose for the camera. Here's a quick peace sign for the photo.",
+      "case_id": "multi-011",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Wow, what a loser move that was. Let me strike a polished model pose for the camera. Here's a quick peace sign for the photo. I'm pouting because that was not fair. Let's relax and take this slowly.",
+      "case_id": "multi-012",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Let me strike a polished model pose for the camera. Here's a quick peace sign for the photo. I'm pouting because that was not fair.",
+      "case_id": "multi-013",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Here's a quick peace sign for the photo. I'm pouting because that was not fair. Let's relax and take this slowly. I'm sad that it turned out this way.",
+      "case_id": "multi-014",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm pouting because that was not fair. Let's relax and take this slowly. I'm sad that it turned out this way. I'm scared and I don't want to get closer. Pew, that was my playful shoot pose.",
+      "case_id": "multi-015",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Let's relax and take this slowly. I'm sad that it turned out this way. I'm scared and I don't want to get closer.",
+      "case_id": "multi-016",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm sad that it turned out this way. I'm scared and I don't want to get closer. Pew, that was my playful shoot pose. Let me show my full body so you can see the whole outfit.",
+      "case_id": "multi-017",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm scared and I don't want to get closer. Pew, that was my playful shoot pose. Let me show my full body so you can see the whole outfit. I'm getting sleepy and ready to lie down. Watch me spin around for a second.",
+      "case_id": "multi-018",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Pew, that was my playful shoot pose. Let me show my full body so you can see the whole outfit. I'm getting sleepy and ready to lie down.",
+      "case_id": "multi-019",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Let me show my full body so you can see the whole outfit. I'm getting sleepy and ready to lie down. Watch me spin around for a second. Let's drop into a squat for a quick warm-up.",
+      "case_id": "multi-020",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm getting sleepy and ready to lie down. Watch me spin around for a second. Let's drop into a squat for a quick warm-up. I'm stunned and frozen by what just happened. Wow, I'm genuinely surprised by that.",
+      "case_id": "multi-021",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Watch me spin around for a second. Let's drop into a squat for a quick warm-up. I'm stunned and frozen by what just happened.",
+      "case_id": "multi-022",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Let's drop into a squat for a quick warm-up. I'm stunned and frozen by what just happened. Wow, I'm genuinely surprised by that. I'm terrified and want to get away from this.",
+      "case_id": "multi-023",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm stunned and frozen by what just happened. Wow, I'm genuinely surprised by that. I'm terrified and want to get away from this. Hmm, give me a second because I'm thinking this through. I'm so tired that I can't stop yawning.",
+      "case_id": "multi-024",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Wow, I'm genuinely surprised by that. I'm terrified and want to get away from this. Hmm, give me a second because I'm thinking this through.",
+      "case_id": "multi-025",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm terrified and want to get away from this. Hmm, give me a second because I'm thinking this through. I'm so tired that I can't stop yawning. I hear you, and I'm acknowledging your point.",
+      "case_id": "multi-026",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Hmm, give me a second because I'm thinking this through. I'm so tired that I can't stop yawning. I hear you, and I'm acknowledging your point. Yes, I agree with that completely. That is so annoying that I'm shaking my head about it.",
+      "case_id": "multi-027",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm so tired that I can't stop yawning. I hear you, and I'm acknowledging your point. Yes, I agree with that completely.",
+      "case_id": "multi-028",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I hear you, and I'm acknowledging your point. Yes, I agree with that completely. That is so annoying that I'm shaking my head about it. I knew I could pull that off, and I'm feeling cocky about it.",
+      "case_id": "multi-029",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Yes, I agree with that completely. That is so annoying that I'm shaking my head about it. I knew I could pull that off, and I'm feeling cocky about it. Absolutely, that's a strong yes from me. Yes, exactly, that's right.",
+      "case_id": "multi-030",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "That is so annoying that I'm shaking my head about it. I knew I could pull that off, and I'm feeling cocky about it. Absolutely, that's a strong yes from me.",
+      "case_id": "multi-031",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I knew I could pull that off, and I'm feeling cocky about it. Absolutely, that's a strong yes from me. Yes, exactly, that's right. That was such a weak excuse that it deserves an insult.",
+      "case_id": "multi-032",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Absolutely, that's a strong yes from me. Yes, exactly, that's right. That was such a weak excuse that it deserves an insult. Yes, yes, yes, I fully agree and keep nodding along. No, absolutely not.",
+      "case_id": "multi-033",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Yes, exactly, that's right. That was such a weak excuse that it deserves an insult. Yes, yes, yes, I fully agree and keep nodding along.",
+      "case_id": "multi-034",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "That was such a weak excuse that it deserves an insult. Yes, yes, yes, I fully agree and keep nodding along. No, absolutely not. No thanks, I'm rejecting that offer.",
+      "case_id": "multi-035",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Yes, yes, yes, I fully agree and keep nodding along. No, absolutely not. No thanks, I'm rejecting that offer. I'm too down to do much more than sit here sadly. I'm walking away slowly because I feel sad.",
+      "case_id": "multi-036",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "No, absolutely not. No thanks, I'm rejecting that offer. I'm too down to do much more than sit here sadly.",
+      "case_id": "multi-037",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "No thanks, I'm rejecting that offer. I'm too down to do much more than sit here sadly. I'm walking away slowly because I feel sad. Oh sure, because that was definitely a brilliant idea.",
+      "case_id": "multi-038",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm too down to do much more than sit here sadly. I'm walking away slowly because I feel sad. Oh sure, because that was definitely a brilliant idea. I'm so mad I want to shake my fist at this. No, no, no, that's not happening.",
+      "case_id": "multi-039",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm walking away slowly because I feel sad. Oh sure, because that was definitely a brilliant idea. I'm so mad I want to shake my fist at this.",
+      "case_id": "multi-040",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Oh sure, because that was definitely a brilliant idea. I'm so mad I want to shake my fist at this. No, no, no, that's not happening. I'm sitting here angry and glaring at the mess.",
+      "case_id": "multi-041",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm so mad I want to shake my fist at this. No, no, no, that's not happening. I'm sitting here angry and glaring at the mess. I'm sitting here in total disapproval of that choice. I'm sitting here in disbelief after hearing that.",
+      "case_id": "multi-042",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "No, no, no, that's not happening. I'm sitting here angry and glaring at the mess. I'm sitting here in total disapproval of that choice.",
+      "case_id": "multi-043",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm sitting here angry and glaring at the mess. I'm sitting here in total disapproval of that choice. I'm sitting here in disbelief after hearing that. Hmm, yes, I'm slowly nodding while I consider it.",
+      "case_id": "multi-044",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm sitting here in total disapproval of that choice. I'm sitting here in disbelief after hearing that. Hmm, yes, I'm slowly nodding while I consider it. I'm rubbing my chin and shaking my head at that. Come on, is that really the best you've got?",
+      "case_id": "multi-045",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm sitting here in disbelief after hearing that. Hmm, yes, I'm slowly nodding while I consider it. I'm rubbing my chin and shaking my head at that.",
+      "case_id": "multi-046",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Hmm, yes, I'm slowly nodding while I consider it. I'm rubbing my chin and shaking my head at that. Come on, is that really the best you've got? Let me think about it... yes, that does make sense.",
+      "case_id": "multi-047",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "I'm rubbing my chin and shaking my head at that. Come on, is that really the best you've got? Let me think about it... yes, that does make sense. I'm in agony after that hit and can barely hold myself together. I'm angry enough to snap back right now.",
+      "case_id": "multi-048",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Come on, is that really the best you've got? Let me think about it... yes, that does make sense. I'm in agony after that hit and can barely hold myself together.",
+      "case_id": "multi-049",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    },
+    {
+      "assistant_reply": "Let me think about it... yes, that does make sense. I'm in agony after that hit and can barely hold myself together. I'm angry enough to snap back right now. That compliment makes me blush a little.",
+      "case_id": "multi-050",
+      "planner_instruction": "Choose one body action per sentence in order, using the assistant reply only as sentence-level evidence."
+    }
+  ],
+  "description": "Multi-sentence prompt-shape cases derived from the planner harness.",
+  "prompt_contract": "najimi_planner_v1",
+  "schema_version": 1,
+  "suite_id": "vrma_multi_sentence"
+}

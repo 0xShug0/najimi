@@ -1,0 +1,259 @@
+{
+  "action_set_id": "vrma_builtin_50",
+  "cases": [
+    {
+      "assistant_reply": "I'm in agony after that hit and can barely hold myself together.",
+      "case_id": "action-001-agony",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm angry enough to snap back right now.",
+      "case_id": "action-002-angry",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "That compliment makes me blush a little.",
+      "case_id": "action-003-blush",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm so bored that I'm barely staying engaged.",
+      "case_id": "action-004-bored",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "You nailed it, and I want to clap for you.",
+      "case_id": "action-005-clapping",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm crying because that ending was devastating.",
+      "case_id": "action-006-crying",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Goodbye for now, and take care until next time.",
+      "case_id": "action-007-goodbye",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Hi there, it's good to see you.",
+      "case_id": "action-008-greeting",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm really happy that this worked out.",
+      "case_id": "action-009-happy",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Yes, we did it, and I could jump with excitement.",
+      "case_id": "action-010-jump",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Let's look around and see what else is here.",
+      "case_id": "action-011-lookaround",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Wow, what a loser move that was.",
+      "case_id": "action-012-loser",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Let me strike a polished model pose for the camera.",
+      "case_id": "action-013-modelpose",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Here's a quick peace sign for the photo.",
+      "case_id": "action-014-peacesign",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm pouting because that was not fair.",
+      "case_id": "action-015-pouting",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Let's relax and take this slowly.",
+      "case_id": "action-016-relax",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm sad that it turned out this way.",
+      "case_id": "action-017-sad",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm scared and I don't want to get closer.",
+      "case_id": "action-018-scared",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Pew, that was my playful shoot pose.",
+      "case_id": "action-019-shoot",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Let me show my full body so you can see the whole outfit.",
+      "case_id": "action-020-showfullbody",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm getting sleepy and ready to lie down.",
+      "case_id": "action-021-sleepy",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Watch me spin around for a second.",
+      "case_id": "action-022-spin",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Let's drop into a squat for a quick warm-up.",
+      "case_id": "action-023-squat",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm stunned and frozen by what just happened.",
+      "case_id": "action-024-stunned",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Wow, I'm genuinely surprised by that.",
+      "case_id": "action-025-surprised",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm terrified and want to get away from this.",
+      "case_id": "action-026-terrified",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Hmm, give me a second because I'm thinking this through.",
+      "case_id": "action-027-thinking",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm so tired that I can't stop yawning.",
+      "case_id": "action-028-yawn",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I hear you, and I'm acknowledging your point.",
+      "case_id": "action-029-acknowledging",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Yes, I agree with that completely.",
+      "case_id": "action-030-agreeing",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "That is so annoying that I'm shaking my head about it.",
+      "case_id": "action-031-annoyedheadshake",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I knew I could pull that off, and I'm feeling cocky about it.",
+      "case_id": "action-032-beingcocky",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Absolutely, that's a strong yes from me.",
+      "case_id": "action-033-hardheadnod",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Yes, exactly, that's right.",
+      "case_id": "action-034-headnodyes",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "That was such a weak excuse that it deserves an insult.",
+      "case_id": "action-035-insult",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Yes, yes, yes, I fully agree and keep nodding along.",
+      "case_id": "action-036-lengthyheadnod",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "No, absolutely not.",
+      "case_id": "action-037-no",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "No thanks, I'm rejecting that offer.",
+      "case_id": "action-038-rejected",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm too down to do much more than sit here sadly.",
+      "case_id": "action-039-sadidle",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm walking away slowly because I feel sad.",
+      "case_id": "action-040-sadwalk",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Oh sure, because that was definitely a brilliant idea.",
+      "case_id": "action-041-sarcasticheadnod",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm so mad I want to shake my fist at this.",
+      "case_id": "action-042-shakefist",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "No, no, no, that's not happening.",
+      "case_id": "action-043-shakingheadno",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm sitting here angry and glaring at the mess.",
+      "case_id": "action-044-sittingangry",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm sitting here in total disapproval of that choice.",
+      "case_id": "action-045-sittingdisapproval",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm sitting here in disbelief after hearing that.",
+      "case_id": "action-046-sittingdisbelief",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Hmm, yes, I'm slowly nodding while I consider it.",
+      "case_id": "action-047-strokenodding",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "I'm rubbing my chin and shaking my head at that.",
+      "case_id": "action-048-strokeshakinghead",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Come on, is that really the best you've got?",
+      "case_id": "action-049-taunt",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    },
+    {
+      "assistant_reply": "Let me think about it... yes, that does make sense.",
+      "case_id": "action-050-thoughtfulheadnod",
+      "planner_instruction": "Choose one body action that best fits the assistant reply."
+    }
+  ],
+  "description": "Single-sentence prompt-shape cases derived from the planner harness.",
+  "prompt_contract": "najimi_planner_v1",
+  "schema_version": 1,
+  "suite_id": "vrma_single_sentence"
+}
